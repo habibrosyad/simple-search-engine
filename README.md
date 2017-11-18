@@ -2,7 +2,7 @@
 This is a command-line-based simple text search engine using vector space model with positional indexes which includes a naive pseudo relevance feedback feature build on top of Rocchio algorithm. Cosine similarity is used as a relevance measurement.
 
 ## Requirements
- - At least Java 8 (the codes hugely abuse the Java 8 Streams feature)
+ - At least Java 8 (the codes heavily abuse the Java 8 Streams feature)
  - A terminal (this is a command-line-based application!)
 
 ## How to use
